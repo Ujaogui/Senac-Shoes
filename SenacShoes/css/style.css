@@ -1,0 +1,15 @@
+/* Estilização global */
+body {
+    background-color: deeppink;
+}
+
+
+
+/* estilização do conteudo */
+.conteudo {
+    display: inline-grid;
+    grid-template-columns: repeat(2,1fr);
+}
+.vantagens {
+    display: inline-block;
+}
